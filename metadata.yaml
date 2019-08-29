@@ -1,0 +1,37 @@
+_repo: Solario-the-Tailor-His-Tales-of-the-Magic-Doublet_60162
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Ormsbee, J.
+    gutenberg_agent_id: '50829'
+    url: http://www.gutenberg.org/2009/agents/50829
+creator:
+  author:
+    agent_name: Bowen, William
+    birthdate: 1877
+    deathdate: 1937
+    gutenberg_agent_id: '32382'
+    url: http://www.gutenberg.org/2009/agents/32382
+    wikipedia: https://en.wikipedia.org/wiki/William_Bowen_(author)
+description: ''
+gutenberg_issued: '2019-08-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60162'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fairy tales'
+- !lcsh 'Magic -- Juvenile fiction'
+- !lcsh 'Buttons -- Juvenile fiction'
+- !lcsh 'Tailors -- Juvenile fiction'
+- GITenberg
+tableOfContents: 'The first night: Story of the old man in the spangled coat -- The
+  second night: Alb the unicorn -- The third night: The son of the tailor of Oogh
+  -- The fourth night: The Ragpicker and the Princess -- The fifth night: The City
+  of Dead Leaves -- The sixth night: The enchanted Highwayman.'
+title: 'Solario the Tailor: His Tales of the Magic Doublet'
+url: http://www.gutenberg.org/ebooks/60162
